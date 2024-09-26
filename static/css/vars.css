@@ -1,11 +1,12 @@
 :root {
+	/*https://coolors.co/01161e-124559-598392-aec3b0-eff6e0*/
 	/* Colors */
-	--accent: #E63946;
-	--background: #FAF9F8;
-	--lightAccent: #A8DAE5;
-	--lighterAccent: #E6E8E4;
-	--dark: #457B9D;
-	--darker: #1D3557;
+	--accent: #4daacc;
+	--background: #EFF6E0;
+	--lightAccent: #598392;
+	--lighterAccent: #aec3b0;
+	--dark: #124559;
+	--darker: #01161e;
 	--slate: #2F3948;
 
 	--white: #fff;

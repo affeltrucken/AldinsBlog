@@ -8,8 +8,8 @@
 export const siteTitle = 'Aldin Smajlovic'
 export const siteDescription = 'My personal blog for learning and growing'
 export const siteURL = 'aldinsmajlovic.se'
-export const siteLink = 'https://github.com/josh-collinsworth/sveltekit-blog-starter'
-export const siteAuthor = '- find and change this text in src/lib/config.js'
+export const siteLink = 'https://github.com/affeltrucken/AldinsBlog'
+export const siteAuthor = 'Aldin Smajlovic'
 
 // Controls how many posts are shown per page on the main blog index pages
 export const postsPerPage = 10
