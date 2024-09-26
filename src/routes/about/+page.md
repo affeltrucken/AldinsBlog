@@ -2,20 +2,18 @@
 	<title>About</title>
 </svelte:head>
 
-# About
+# About me
 
-This is an example of how you can have _markdown_ in page content!
+My name is Aldin.
 
-- How
-- **Cool**
-- Is _that_!?
+I'm a 19 year old aspiring penetration-tester and tech enthusiast from **Sweden**. I enjoy learning about everything from cybersecurity, to AI, coding and programming, webdev, reverse engineering. Basically *everything* and *anything* related to tech, new technologies, and IT.
 
-If you like, you can also import markdown into any Svelte page.
+Right now I am studying **pentesting** remotely at <a href="https://www.iths.se/">ITHs</a> in Stockholm. It's a two-year program focused on ethical hacking and practical knowledge that's applicable in the IT-security industry.
 
-Anyway, you can find this file here:
+Some facts about me:
+- 🐍 My language of choice is Python.
+- 📷 I love photography.
+- 🎞️ My favorite film is Amelié (2001).
+- 🎧 I like making music, mainly House and DnB.
 
-```
-src/routes/about/+page.md
-```
-
-Here's the [home link](/) if you wanna go back.
+Check out my <a href="https://www.linkedin.com/in/aldin-smajlovic/">LinkedIn</a>.
