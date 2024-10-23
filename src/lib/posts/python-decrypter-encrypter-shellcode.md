@@ -1,7 +1,7 @@
 ---
 title: "Creating a crypter with Python"
 date: "2024-10-14"
-updated: "2024-10-22"
+updated: "2024-10-23"
 coverImage: "/images/cryptonite_menu.png"
 categories:
   - "python"
@@ -13,7 +13,7 @@ categories:
 excerpt: A quick writeup about how I wrote a crypter for a school project in Python.
 ---
 
-Recently as part of my education, our class was tasked with writing a encrypter and decryptor using Python and the [Fernet module](https://cryptography.io/en/latest/fernet/#cryptography.fernet.Fernet) from the cryptography library. It is a module for symmetric encryption and key generation using 128 bit AES.
+Recently as part of my education, our class was tasked with writing a encrypter and decryptor using Python, the [Fernet module](https://cryptography.io/en/latest/fernet/#cryptography.fernet.Fernet), and [libsodium](https://doc.libsodium.org/). It is a module for symmetric encryption and key generation using 128 bit AES.
 
 ## Creating and using keys in Fernet
 
