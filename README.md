@@ -8,6 +8,7 @@ Topics mainly discussed will be:
 - **Web Development**
 - **Programming**
 - **Hacking**
+- **Embedded Electronics**
 
 and anything else I might find interesting.
 
