@@ -7,7 +7,7 @@
 
 export const siteTitle = 'Aldin Smajlovic'
 export const siteDescription = 'My personal blog for learning and growing'
-export const siteURL = 'aldinsmajlovic.se'
+export const siteURL = 'blog.aldinsmajlovic.se'
 export const siteLink = 'https://github.com/affeltrucken/AldinsBlog'
 export const siteAuthor = 'Aldin Smajlovic'
 
