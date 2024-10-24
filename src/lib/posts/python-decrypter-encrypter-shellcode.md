@@ -595,4 +595,4 @@ x86_64-w64-mingw32-gcc shell.c -o shell.exe -lsodium -static -mwindows
 
 ## Conclusion
 
-And that's it! Now we can make our code a little bit less detectable. I actually managed to bypass Defender completely using a msfvenom payload and my crypter. If you wan't to check out my code or contribute, go to my **[GitHub](https://github.com/affeltrucken/ITST24_programming/tree/main/python/project2)**, just be sure to turn off sample submission if you want to test out the crypter ;)
+And that's it! Now we can make our code a little bit less detectable. I actually managed to bypass Defender completely using a msfvenom payload and my crypter. If you want to check out my code or contribute, go to my **[GitHub](https://github.com/affeltrucken/ITST24_programming/tree/main/python/project2)**, just be sure to turn off sample submission if you want to test out the crypter ;)
