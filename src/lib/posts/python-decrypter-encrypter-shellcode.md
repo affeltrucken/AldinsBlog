@@ -1,7 +1,7 @@
 ---
 title: "Creating a crypter with Python"
 date: "2024-10-14"
-updated: "2024-10-23"
+updated: "2024-10-31"
 coverImage: "/images/cryptonite_menu.png"
 categories:
   - "python"
@@ -378,7 +378,7 @@ if __name__ == "__main__":
     main()
 ```
 
-This file has changed a lot since time of writing, so I added some features, added ability to use the tool in command line, and some other fun stuff, so if you're interested, check it out [here](https://github.com/affeltrucken/ITST24_programming/tree/main/python/project2) 
+This file has changed a lot since time of writing, so I added some features, added ability to use the tool in command line, and some other fun stuff, so if you're interested, check it out [here](https://github.com/affeltrucken/ITST24_programming/tree/main/python/main_project/cryptonite) 
 
 ## shellcode_crypter.py: Encrypting shellcode and running it
 
@@ -595,4 +595,4 @@ x86_64-w64-mingw32-gcc shell.c -o shell.exe -lsodium -static -mwindows
 
 ## Conclusion
 
-And that's it! Now we can make our code a little bit less detectable. I actually managed to bypass Defender completely using a msfvenom payload and my crypter. If you want to check out my code or contribute, go to my **[GitHub](https://github.com/affeltrucken/ITST24_programming/tree/main/python/project2)**, just be sure to turn off sample submission if you want to test out the crypter ;)
+And that's it! Now we can make our code a little bit less detectable. I actually managed to bypass Defender completely using a msfvenom payload and my crypter. If you want to check out my code or contribute, go to my **[GitHub](https://github.com/affeltrucken/ITST24_programming/tree/main/python/main_project/cryptonite)**, just be sure to turn off sample submission if you want to test out the crypter ;)
